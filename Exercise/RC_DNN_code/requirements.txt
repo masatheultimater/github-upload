@@ -37,7 +37,7 @@ matplotlib==2.2.2
 mistune==0.8.3            # via nbconvert
 nbconvert==5.3.1          # via jupyter, notebook
 nbformat==4.4.0           # via ipywidgets, nbconvert, notebook
-notebook==5.6.0           # via jupyter, widgetsnbextension
+notebook==5.7.8           # via jupyter, widgetsnbextension
 numpy==1.15.0
 pandas==0.23.3
 pandocfilters==1.4.2      # via nbconvert
@@ -54,7 +54,7 @@ pyparsing==2.2.0          # via matplotlib
 python-dateutil==2.7.3    # via jupyter-client, matplotlib, pandas
 python-mnist==0.5
 pytz==2018.5              # via matplotlib, pandas
-pyyaml==3.13              # via keras
+pyyaml==4.2b1              # via keras
 pyzmq==17.1.0             # via jupyter-client, notebook
 qtconsole==4.3.1          # via jupyter
 scikit-learn==0.19.2      # via sklearn
